@@ -1,16 +1,36 @@
-### Hi there 👋
+👨‍💻 Igor Limeira | Desenvolvedor & Analista de Sistemas
+📍 Brasil |🔗 [JOY Consultoria](https://joyconsultoria.com.br/)
 
-<!--
-**guiban/guiban** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Resumo Profissional
 
-Here are some ideas to get you started:
+👨‍💼 Mais de 5 anos de experiência na área de TI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 Mais de 10 anos de experiência profissional em empresas de médio e grande porte.
+
+🖥️ Especialista em: Java, Spring Boot, REST, JPA, JUnit, JMeter, Docker e muito mais.
+
+☁️ Atuação com Cloud: AWS e GCP.
+
+🖥️ Experiência com servidores On Premise.
+
+🐧 Ambientes: Linux e Windows.
+
+🤝 Excelentes habilidades de comunicação, apresentação e trabalho em equipe.
+
+📖 Autodidata, focado e organizado.
+
+💼 Experiências Profissionais
+
+🎓 Formação Acadêmica
+- Superior - Análise e desenvolvimento de Sistemas
+- Técnico em Desenvolvimento de Sistemas
+
+🏆 Certificações
+
+- Banco de Dados MYSQL
+
+- Desenvolvedor Java JDBC/JPA/SPRING/SWING
+
+- Java WEB JSP/MYSQL
+
+- Fundação Bradesco - Web Developer.
