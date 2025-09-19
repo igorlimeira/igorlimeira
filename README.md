@@ -1,36 +1,81 @@
-👨‍💻 Igor Limeira | Desenvolvedor & Analista de Sistemas
-📍 Brasil |🔗 [JOY Consultoria](https://joyconsultoria.com.br/)
+# Hi there, I'm Igor Limeira 👋
 
-🚀 Resumo Profissional
+**IT Leader | Systems Developer & Analyst | 8+ Years in IT | Brazil**  
+Currently at **Limbyte**
 
-👨‍💼 Mais de 5 anos de experiência na área de TI.
+---
 
-📚 Mais de 10 anos de experiência profissional em empresas de médio e grande porte.
+## About Me
 
-🖥️ Especialista em: Java, Spring Boot, REST, JPA, JUnit, JMeter, Docker e muito mais.
+I'm a passionate systems developer and analyst with over 8 years of experience in IT and more than 10 years of professional experience in medium and large companies. I'm self-taught, focused, and organized, with excellent communication and teamwork skills.
 
-☁️ Atuação com Cloud: AWS e GCP.
+- 🔭 Currently working at **Limbyte**
+- 🌱 Specializing in **Java, Spring Boot, Cloud Technologies**
+- 💼 **8+ years** in IT, **10+ years** total professional experience
+- 🌍 Based in **Brazil**
+- 📚 Lifelong learner and self-taught developer
 
-🖥️ Experiência com servidores On Premise.
+---
 
-🐧 Ambientes: Linux e Windows.
+## Tech Stack
 
-🤝 Excelentes habilidades de comunicação, apresentação e trabalho em equipe.
+**Backend & Frameworks**  
+Java • Spring Boot • REST APIs • JPA • JUnit
 
-📖 Autodidata, focado e organizado.
+**Cloud & Infrastructure**  
+AWS • GCP • Azure • Docker • On-Premise Servers
 
-💼 Experiências Profissionais
+**Testing & Performance**  
+JMeter • JUnit • Cucumber • Predator • Performance Testing
 
-🎓 Formação Acadêmica
-- Superior - Análise e desenvolvimento de Sistemas
-- Técnico em Desenvolvimento de Sistemas
+**Operating Systems**  
+Linux • Windows • macOS
 
-🏆 Certificações
+---
 
-- Banco de Dados MYSQL
+## GitHub Stats
 
-- Desenvolvedor Java JDBC/JPA/SPRING/SWING
+<div align="center">
 
-- Java WEB JSP/MYSQL
+### Language Usage
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=igorlimeira&layout=compact&theme=github_dark&hide_border=true&langs_count=8)
 
-- Fundação Bradesco - Web Developer.
+### GitHub Statistics
+![Igor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=igorlimeira&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
+
+
+</div>
+
+---
+
+## Professional Background
+
+### Experience
+- **8+ years** in IT development and analysis
+- **10+ years** total professional experience
+- Expertise in **medium and large-scale** enterprise environments
+- Strong background in **system architecture** and **backend development**
+
+### Education
+- **Bachelor's Degree** - Systems Analysis and Development
+- **Technical Degree** - Systems Development
+
+### Certifications
+- MySQL Database Certification
+- Java Developer (JDBC/JPA/Spring/Swing)
+- Java Web Development (JSP/MySQL)
+- Web Developer - Fundação Bradesco
+
+---
+
+## Let's Connect
+
+Feel free to reach out for collaboration opportunities or just to connect!
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=igorlimeira&color=blue&style=flat)
+
+</div>
+
+---
