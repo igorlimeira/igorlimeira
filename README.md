@@ -38,10 +38,10 @@ Linux • Windows • macOS
 <div align="center">
 
 ### Language Usage
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=igorlimeira&layout=compact&theme=github_dark&hide_border=true&langs_count=8)
+![Top Languages](https://github-readme-stats-p6yveqpr0-igor-limeiras-projects.vercel.app/api/top-langs/?username=igorlimeira&layout=compact&theme=github_dark&hide_border=true&langs_count=8)
 
 ### GitHub Statistics
-![Igor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=igorlimeira&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
+![Igor's GitHub Stats](https://github-readme-stats-p6yveqpr0-igor-limeiras-projects.vercel.app/api?username=igorlimeira&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
 
 
 </div>
