@@ -4,7 +4,7 @@
 
 **IT Leader | Systems Developer & Analyst | 8+ Years in IT | Brazil** Currently at **Limbyte**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/seu-perfil](https://www.linkedin.com/in/igor-limeira-578444ba/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igor-limeira-578444ba)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:igorlimeiradev@gmail.com)
 
 </div>
